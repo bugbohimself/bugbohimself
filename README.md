@@ -1,4 +1,7 @@
-## Hi there 👋
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8526840e-021b-4cb9-8c03-c7c324600b34"alt="My about me" width="1500" style="border-radius: 10px;" />
+</p>
 
 <!--
 **bugbohimself/bugbohimself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
